@@ -129,7 +129,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Target: {fileID: 0}
-  MaxSpeed: -10
+  MaxSpeed: -20
   Range: 20
 --- !u!1 &8586979107169932793
 GameObject:
